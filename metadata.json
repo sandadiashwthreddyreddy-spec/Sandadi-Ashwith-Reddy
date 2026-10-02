@@ -1,0 +1,6 @@
+{
+  "name": "Smart Delivery Route Planner",
+  "description": "DAA Hackathon Route Optimization Engine implementing Dijkstra's Algorithm and Travelling Salesman Problem (Bitmask DP).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
